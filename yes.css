@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: papayawhip;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.yes {
+    font-size: 30px;
+    color:navy;
+    margin-top: 50px;
+}
